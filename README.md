@@ -1,4 +1,4 @@
-![](https://github.com/Zazaaw/zazaaw.github.io/blob/banner.jpg)
+![](https://github.com/Zazaaw/zazaaw.github.io/blob/master/blob/banner.jpg)
 
 # paiz's Portfolio Repository
 
